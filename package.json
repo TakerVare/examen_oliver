@@ -1,0 +1,19 @@
+{
+  "name": "autoria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countries.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "npm run playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.3"
+  }
+}
